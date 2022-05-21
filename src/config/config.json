@@ -1,0 +1,51 @@
+{
+    "welcome_words": [
+        "嗨, 欢迎来到我的博客.",
+        "Hi, welcome to my blog.",
+        "Ciao, benvenuti sul mio blog."
+    ],
+    "cards": [
+        {
+            "name": "blog",
+            "url_open": "https://blog.fm7077.it",
+            "url_show": "https://blog.fm7077.it/archives/",
+            "front_background_img": "",
+            "front_background_color": "",
+            "front_logo": "favicon.ico",
+            "front_desc": {
+                "cn": "blog.fm7077.it",
+                "en": "This is my blog",
+                "it": "Questo è mio blog"
+            },
+            "show_back": false
+        },
+        {
+            "name": "italiano",
+            "url_open": "https://italiano.fm7077.it",
+            "url_show": "https://italiano.fm7077.it/archives/",
+            "front_background_img": "",
+            "front_background_color": "",
+            "front_logo": "italiano-logo.png",
+            "front_desc": {
+                "cn": "italiano.fm7077.it",
+                "en": "This is my italian notebook",
+                "it": "Questo è il mio notebook italiano"
+            },
+            "show_back": false
+        },
+        {
+            "name": "pics",
+            "url_open": "https://foto.fm7077.it",
+            "url_show": "https://foto.fm7077.it",
+            "front_background_img": "westlake.png",
+            "front_background_color": "",
+            "front_logo": "photo-logo.png",
+            "front_desc": {
+                "cn": "foto.fm7077.it",
+                "en": "This is my photo blog",
+                "it": "Questo è il mio foto blog"
+            },
+            "show_back": false
+        }
+    ]
+}
